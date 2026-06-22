@@ -123,7 +123,7 @@ local_search:
 # About the per_page
 # if you set it to true, it will load mathjax/katex script in each page (true 表示每一页都加载js)
 # if you set it to false, it will load mathjax/katex script according to your setting (add the 'mathjax: true' in page's front-matter)
-# (false 需要时加载，须在使用的 Markdown Front-matter 加shang mathjax: true)
+# (false 需要时加载，须在使用的 Markdown Front-matter 加上 mathjax: true)
 
 # MathJax
 mathjax:
