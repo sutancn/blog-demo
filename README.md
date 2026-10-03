@@ -12,24 +12,15 @@ A personal blog built with [Hexo/Gatsby/VitePress/Next.js]，记录技术实践�
 🛠️ 快速开始
  
 1. 克隆仓库
-bash
-  
 git clone https://github.com/sutancn/blog-demo.git
-cd Tan-Youth-Blog
  
 2. 安装依赖
-bash
-  
 npm install  # 或 yarn install/pnpm install
  
 3. 本地预览
-bash
-  
 hexo s  # 启动本地开发服务器，默认访问 http://localhost:3000（端口依框架而定）
  
 4. 构建与部署
-bash
-  
 hexo generate  # 生成静态文件
 # 按所选部署方式执行后续命令，如GitHub Pages可搭配gh-pages工具
  
@@ -56,5 +47,4 @@ plaintext
 - 接入[统计工具，如Google Analytics、百度统计]分析访问数据；
 - 配置[CI/CD workflow]实现提交代码后自动构建部署。
  
-欢迎访问线上博客：https://blog.617171.xyz/
 若有问题或建议，可通过Issues留言，也欢迎Fork & Star！
